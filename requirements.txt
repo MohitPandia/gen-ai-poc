@@ -1,0 +1,11 @@
+langchain
+langchain_community
+langchain_google_genai
+langchain_openai
+langchain_core
+streamlit
+sentence_transformers
+langchain-chroma
+psycopg2
+sse_starlette
+python-dotenv
