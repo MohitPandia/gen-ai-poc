@@ -25,3 +25,6 @@ OPEN_AI_MODEL="gpt-3.5-turbo"
 TEMPERATURE=0
 
 STREAMLIT_CACHE="false"
+
+
+"sk-proj-ji8XGn7j9yz2tRrmJSF0T3BlbkFJyMYOZV5yJnZsjG3WI7Y6"
